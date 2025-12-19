@@ -1,0 +1,29 @@
+h1 {
+    color: #ffffff;
+
+}
+
+h2{
+    color: #000000;
+    font-size: 200%;
+    font-style: o blique;
+    letter-spacing: 10%;
+    word-spacing: 50%;
+    text-indent: 90%;
+    text-align: center;
+    text-decoration: overline underline line-through ;
+}
+
+h3{
+    color: #0000ff;
+}
+
+body{
+ 
+    min-height: 200vh; /* يخلي الصفحة أطول من الشاشة */
+    background-image: url("تنزيل.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
